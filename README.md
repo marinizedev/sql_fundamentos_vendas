@@ -23,16 +23,13 @@ O projeto serviu como base de estudo antes da construção de um sistema acadêm
 
 ---
 
-## Modelagem de Dados
+## Modelagem do Banco de Dados
 
-O projeto conta com:
+### Diagrama Entidade-Relacionamento (DER)
+![DER](docs/diagramas/der.png)
 
-• **DER (Diagrama Entidade-Relacionamento)**
-• **Modelo Lógico**
-• Definição de entidades, atributos e relacionamentos
-• Aplicação de chaves primárias e estrangeiras
-
-Os diagramas estão disponíveis na pasta/**modelos**.
+### Modelo Lógico
+![Modelo Lógico](docs/diagramas/modelo_logico.png)
 
 ---
 

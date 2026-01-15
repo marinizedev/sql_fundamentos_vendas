@@ -3,6 +3,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
+---
+
 ## Descrição
 
 Este repositório contém um **projeto de banco de dados para um sistema de vendas**, desenvolvido como **fundamento prático de aprendizagem em SQL**.

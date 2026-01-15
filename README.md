@@ -15,11 +15,11 @@ O projeto serviu como base de estudo antes da construção de um sistema acadêm
 
 ## Objetivo do Projeto
 
-• Praticar **modelagem conceitual e lógica**
-• Criar um **banco de dados relacional**
-• Desenvolver **scripts SQL completos**
-• Exercitar **consultas SQL para análise de dados**
-• Consolidar fundamentos de **MySQL**
+- Praticar **modelagem conceitual e lógica**
+- Criar um **banco de dados relacional**
+- Desenvolver **scripts SQL completos**
+- Exercitar **consultas SQL para análise de dados**
+- Consolidar fundamentos de **MySQL**
 
 ---
 
@@ -33,10 +33,10 @@ O projeto serviu como base de estudo antes da construção de um sistema acadêm
 
 ## Tecnologias Utilizadas
 
-• **MySQL Workbench**
-• **SQL**
-• Ferramentas de modelagem de dados
-• VS Code
+- **MySQL Workbench**
+- **SQL**
+- Ferramentas de modelagem de dados
+- VS Code
 
 ---
 

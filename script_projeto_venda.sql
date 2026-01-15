@@ -1,6 +1,6 @@
 CREATE DATABASE db_projeto_venda;
 
-use db_projeto_venda;
+USE db_projeto_venda;
 
 CREATE TABLE tbl_cliente (
     id                 INT PRIMARY KEY NOT NULL AUTO_INCREMENT,

@@ -26,10 +26,8 @@ O projeto serviu como base de estudo antes da construção de um sistema acadêm
 ## Modelagem do Banco de Dados
 
 ### Diagrama Entidade-Relacionamento (DER)
-![DER](docs/diagramas/der.png)
 
 ### Modelo Lógico
-![Modelo Lógico](docs/diagramas/modelo_logico.png)
 
 ---
 
